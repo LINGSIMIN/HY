@@ -4,6 +4,7 @@ language:
   - zh
 pipeline_tag: text-generation
 library_name: transformers
+license: apache-2.0
 ---
 
 <div align="center">
